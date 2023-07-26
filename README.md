@@ -10,8 +10,13 @@
   
 ####  :clipboard: Once I've Used 
   
- <br/>
-  
+<br>
+<img src="https://img.shields.io/badge/C++-1572B6?style=for-the-badge&logo=#00599C&logoColor=white">
+<!--<img src="https://img.shields.io/badge/JAVA-1572B6?style=for-the-badge&logo=기술스택아이콘&logoColor=white">>
+<img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=#A8B9CC&logoColor=white">
+<img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=#3776AB&logoColor=white">
+<br/>
+<br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
